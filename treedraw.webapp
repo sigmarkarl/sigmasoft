@@ -1,7 +1,7 @@
 {
   "name": "Treedraw",
   "description": "Draws phylogenetic trees on a HTML5 canvas",
-  "launch_path": "/Treedraw.html",
+  "launch_path": "/",
   "icons": {
     "128": "/icon-128.png"
   },
