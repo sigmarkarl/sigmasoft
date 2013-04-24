@@ -3,7 +3,7 @@
   "description": "Draws phylogenetic trees on a HTML5 canvas",
   "launch_path": "/sigmasoft/",
   "icons": {
-    "128": "/icon-128.png"
+    "128": "/sigmasoft/icon-128.png"
   },
   "developer": {
     "name": "Sigmar Stefansson",
